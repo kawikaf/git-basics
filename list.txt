@@ -1,3 +1,1 @@
-This is the first commit
-
-This is the second commit
+Changes made to improve features
